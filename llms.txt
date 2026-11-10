@@ -1,0 +1,24 @@
+# RingAnvil
+
+> RingAnvil is the AI phone-answering platform of Apex Grid Engineering PLLC, hosted here at whataiservices.com (platform home); ringanvil.com is its trades flagship. A named team of AI assistants — Alex (answering), Amber (onboarding), Riley (setup and confirmation), Jordan (signup confirmations) — answers for local service businesses. The bots are presented openly as AI and disclose on every call.
+
+## Status (honest, dated 2026-11-09)
+- Plumbing: LIVE — proven on graded live calls; demo line +1 (602) 587-0302 via ringanvil.com.
+- HVAC: IN PORTING — Stage 1 port started under the Phase 2 verdict; not sellable until graded live calls, market page, pricing and compliance checks all pass.
+- All other markets: STAGED — not available, not sold. Restaurants: PLANNED (new order-taking vertical).
+
+## Pricing (per market, charter)
+- Overflow: $299/mo + $500 setup, 500 min included, $0.25/min overage
+- Full Desk: $499/mo + $1,000 setup, 1,250 min, $0.22/min overage
+- Full Desk + Follow-Up: $799/mo + $1,000 setup, 2,000 min, $0.22/min overage
+- A second market is a second desk at the same tier; setup is never waived.
+
+## Rules
+- Disclosure-first on every call; no cold outbound calling, ever; follow-up only when inbound-triggered or consented.
+- Contact: info@ringanvil.com · (480) 490-0064 · 22475 E Quintero Rd, Queen Creek, AZ 85142, US
+
+## Pages
+- / — platform home
+- /markets/hvac.html — HVAC market page (status: IN PORTING)
+- /privacy.html — privacy
+- /terms.html — terms (incl. refunds)
