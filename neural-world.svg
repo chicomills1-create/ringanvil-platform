@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+ <radialGradient id="space"><stop offset="0" stop-color="#103757"/><stop offset=".34" stop-color="#091c30"/><stop offset="1" stop-color="#030711"/></radialGradient>
+ <radialGradient id="sphere" cx=".36" cy=".28" r=".74"><stop stop-color="#275f78" stop-opacity=".65"/><stop offset=".34" stop-color="#0b3554" stop-opacity=".6"/><stop offset=".67" stop-color="#082034" stop-opacity=".75"/><stop offset=".85" stop-color="#08172a"/><stop offset="1" stop-color="#030811"/></radialGradient>
+ <linearGradient id="arc"><stop stop-color="#4cdfff" stop-opacity=".02"/><stop offset=".35" stop-color="#52e9ff"/><stop offset=".7" stop-color="#ff834c"/><stop offset="1" stop-color="#ff834c" stop-opacity=".03"/></linearGradient>
+ <linearGradient id="scan" x2="0" y2="1"><stop stop-color="#78f2ff" stop-opacity=".4"/><stop offset="1" stop-color="#78f2ff" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#5ad7ee" stroke-opacity=".18" stroke-width=".7"/></pattern>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#b6f7ff" opacity=".4"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="25"/></filter>
+ <clipPath id="disc"><circle cx="780" cy="464" r="292"/></clipPath>
+</defs>
+<rect width="1440" height="900" fill="url(#space)"/>
+<g opacity=".5"><circle cx="180" cy="130" r="1.4" fill="#fff"/><circle cx="1160" cy="80" r="1" fill="#fff"/><circle cx="1310" cy="240" r="1.8" fill="#7ddfff"/><circle cx="108" cy="525" r="1.1" fill="#fff"/><circle cx="1245" cy="645" r="1.2" fill="#fff"/><circle cx="470" cy="78" r="1.3" fill="#fff"/><circle cx="995" cy="128" r="1.5" fill="#fff"/><circle cx="371" cy="310" r="1.2" fill="#ffac82"/><circle cx="1390" cy="410" r="1" fill="#fff"/></g>
+<circle cx="780" cy="464" r="375" fill="#2fcfff" opacity=".075" filter="url(#soft)"/>
+<circle cx="780" cy="464" r="302" fill="none" stroke="#4ccce7" stroke-width="1" stroke-opacity=".14"/>
+<circle cx="780" cy="464" r="318" fill="none" stroke="#ff8753" stroke-width=".65" stroke-dasharray="3 17" stroke-opacity=".45"/>
+<circle cx="780" cy="464" r="292" fill="url(#sphere)" stroke="#75eaff" stroke-opacity=".46" stroke-width="1.5"/>
+<g clip-path="url(#disc)"><rect x="488" y="172" width="584" height="584" fill="url(#dots)" opacity=".44"/>
+<g fill="none" stroke="#75ddf2" stroke-opacity=".22" stroke-width="1">
+<ellipse cx="780" cy="464" rx="275" ry="72"/><ellipse cx="780" cy="464" rx="275" ry="144"/><ellipse cx="780" cy="464" rx="275" ry="226"/><ellipse cx="780" cy="464" rx="83" ry="290"/><ellipse cx="780" cy="464" rx="165" ry="290"/><ellipse cx="780" cy="464" rx="235" ry="290"/><path d="M490 464h580"/><path d="M780 174v580"/>
+</g>
+<g opacity=".42" stroke="#9defff" stroke-width="1.2" fill="none"><path d="M514 445l75-43 44-11 33-66 63 23 44-22 51 47 47-9 55 48 65 1"/><path d="M574 562l74-37 32-43 89 13 38 54 83-27 69 20"/><path d="M610 341l58-14 57 29 40-20 63 31 75-3 60 48"/></g>
+<rect x="488" y="172" width="584" height="584" fill="url(#scan)" opacity=".22"/></g>
+<path d="M370 465c92-265 287-414 506-375 206 37 348 197 385 362" fill="none" stroke="url(#arc)" stroke-width="3" filter="url(#glow)" opacity=".9"/>
+<path d="M327 558c166 158 344 246 529 236 168-9 331-108 477-288" fill="none" stroke="#64eaff" stroke-opacity=".25" stroke-width="2"/>
+<path d="M356 453c50 82 164 140 311 171 231 48 450-9 612-151" fill="none" stroke="url(#arc)" stroke-width="1.5" opacity=".85"/>
+<g filter="url(#glow)"><circle cx="493" cy="380" r="5" fill="#6eecff"/><circle cx="1048" cy="535" r="5" fill="#ff945e"/><circle cx="724" cy="205" r="3" fill="#8ceaff"/><circle cx="980" cy="264" r="3" fill="#ff9f6f"/></g>
+<g opacity=".7" stroke="#68dfff" stroke-width="1" fill="none"><path d="M493 380H345l-50-40H203"/><circle cx="201" cy="340" r="4"/><path d="M1048 535h128l43 45h94"/><circle cx="1315" cy="580" r="4"/><path d="M980 264h159l35-35h81"/><circle cx="1258" cy="229" r="4"/></g>
+<g fill="#b5edff" font-size="13" font-family="monospace" letter-spacing="3" opacity=".6"><text x="200" y="327">SIGNAL 01</text><text x="1204" y="564">NODE 04</text><text x="1152" y="217">UPLINK</text></g>
+<path d="M0 702Q720 572 1440 702V900H0Z" fill="#061a2c" opacity=".6"/>
+<path d="M0 705Q720 590 1440 705" fill="none" stroke="#56d8ee" opacity=".45" stroke-width="1"/>
+<path d="M0 742H1440M0 788H1440M0 856H1440" stroke="#58d4f0" opacity=".13"/>
+<path d="M720 626L0 900M720 626L250 900M720 626L480 900M720 626L960 900M720 626L1190 900M720 626L1440 900" stroke="#58d4f0" opacity=".13"/>
+<rect y="855" width="1440" height="45" fill="#030711"/>
+</svg>
