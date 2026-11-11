@@ -1,11 +1,11 @@
 # RingAnvil
 
-> RingAnvil is the AI phone-answering platform of Apex Grid Engineering PLLC, hosted here at whataiservices.com (platform home); ringanvil.com is its trades flagship. A named team of AI assistants — Alex (answering), Amber (onboarding), Riley (setup and confirmation), Jordan (signup confirmations) — answers for local service businesses. The bots are presented openly as AI and disclose on every call.
+> RingAnvil is the AI phone-answering platform of Apex Grid Engineering PLLC, hosted here at whataiservices.com (platform home); ringanvil.com is its trades flagship. A named team of AI assistants — Alex (answering), Amber (onboarding), Riley (setup and confirmation), Jordan (signup confirmations) — answers for local service businesses. Buyers pick their assistant (Alex, Amber, Riley or Jordan); Alex is the proven configuration, the others are in grading. The bots are presented openly as AI and disclose on every call.
 
-## Status (honest, dated 2026-11-09)
+## Status (honest, dated 2026-11-10)
 - Plumbing: LIVE — proven on graded live calls; demo line +1 (602) 587-0302 via ringanvil.com.
-- HVAC: IN PORTING — Stage 1 port started under the Phase 2 verdict; not sellable until graded live calls, market page, pricing and compliance checks all pass.
-- All other markets: STAGED — not available, not sold. Restaurants: PLANNED (new order-taking vertical).
+- HVAC: IN PORTING — demo agent built and published; not sellable until graded live calls, the tentative-window exercise, the knowledge battery, pricing and compliance checks all pass.
+- All other markets: STAGED — each has a dossier page under /markets/, is not available and is not sold. Restaurants: PLANNED (new order-taking vertical, sells only after a graded live order call passes).
 
 ## Pricing (per market, charter)
 - Overflow: $299/mo + $500 setup, 500 min included, $0.25/min overage
@@ -19,6 +19,6 @@
 
 ## Pages
 - / — platform home
-- /markets/hvac.html — HVAC market page (status: IN PORTING)
+- /markets/<slug>.html — one dossier page per market (41): hvac (IN PORTING), plumbing (LIVE), roofing, electrical, landscaping, pest-control, painting, flooring, appliance, carpet, garage-door, gutters, junk-removal, locksmith, concrete, tree-service, pool-service, window-door, general-contractor, handyman, car-wash, tow-service, house-cleaning, mold-remediation, moving-company, water-restoration, pressure-washing, solar, cpa-tax, hr-consulting, pet-waste, msp-it, dental, law-firm, real-estate, auto-repair, fence, auto-detailing, fire-restoration, engineering-firm (all STAGED), restaurants (PLANNED)
 - /privacy.html — privacy
 - /terms.html — terms (incl. refunds)
