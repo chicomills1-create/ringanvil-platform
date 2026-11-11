@@ -178,3 +178,7 @@ radial-gradient(circle at 90% 54%,rgba(255,255,255,.65) 0 1px,transparent 1.6px)
 .mkt-art .chip-live{background:var(--green,#4ee2a0)}
 .mkt-art .chip-port{background:var(--cyan)}
 .mkt-name{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 14px;font-weight:700;color:var(--ink);font-size:15px}
+/* ===== Portrait framing cure (founder review 2026-11-11) ===== */
+.member-avatar{aspect-ratio:4/5!important;height:auto!important}
+.member-avatar img{object-position:50% 15%}
+.world-console-bot img{object-position:50% 15%}
